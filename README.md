@@ -26,6 +26,6 @@ Currently pursuing my Master's degree in Information Security from National Inst
 
 <header><h4><p align="right">Contact</p> </h4></header> 
 
-<p align="right"><a href="https://www.linkedin.com/in/ritik-dubey-b2b89763/">Linkedin</a></p> 
- <p align="right"><a href="https://www.facebook.com/thecyberevilsteam">Facebook</a></p>
- <p align="right"><a href="https://github.com/dblackmorris">Github</a></p>
+<p align="right"><a href="https://www.linkedin.com/in/pradeep-singh-1a0335119/">Linkedin</a></p> 
+ <p align="right"><a href="https://www.facebook.com/pradeep.royal32">Facebook</a></p>
+ <p align="right"><a href="https://github.com/pradeepsinghnitk">Github</a></p>
