@@ -1,5 +1,5 @@
 # About Me
-Currently pursuing my Master's degree in Information Security from National Institute of Technology, Karnataka. Let me help you to Show some of my Work till date.Check Out My [resume](https://github.com/dblackmorris/suraj-ravi93.github.io/blob/master/Ritik_resume.pdf).
+Currently pursuing my Master's degree in Information Security from National Institute of Technology, Karnataka. Let me help you to Show some of my Work till date.Check Out My [C.V](https://github.com/pradeepsinghnitk/pradeepsinghnitk.github.io/blob/master/curriculum-vitae%20(2).pdf).
 <br>
 <br>
 <br>
