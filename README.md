@@ -20,8 +20,7 @@ A Data Analytical Project which aims to comparison between mobile carriers compa
 
 
 
- -<br>
- -<br>
+
  
  -<header><h4><p align="right">Contact</p> </h4></header> 
  
