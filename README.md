@@ -15,7 +15,7 @@ This Project aims to Protection of user privacy by preventing google from hijack
 
 
 ### Enhanced Sentiment Learning Using Twitter Hashtags and Smileys
-
+>
  <header><h4><p align="right">Contact</p> </h4></header> 
  
  <p align="right"><a href="https://www.linkedin.com/in/pradeep-singh-1a0335119/">Linkedin</a></p> 
