@@ -7,7 +7,7 @@ Currently pursuing my Master's degree in Information Security from National Inst
 Ongoing Project
 
 
->Depth Analysis of Windows IOT and Exploitation Zigbee. Details will be updated as the project progresses. 
+>Machine learning Applied in Intrusion Detection System  . 
 
 ## Completed Projects 
 ### Link fixer
