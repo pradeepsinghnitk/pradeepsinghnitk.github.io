@@ -22,8 +22,8 @@ A Data Analytical Project which aims to comparison between mobile carriers compa
 
 
  
- -<header><h4><p align="right">Contact</p> </h4></header> 
+ <header><h4><p align="right">Contact</p> </h4></header> 
  
- -<p align="right"><a href="https://www.linkedin.com/in/pradeep-singh-1a0335119/">Linkedin</a></p> 
- - <p align="right"><a href="https://www.facebook.com/pradeep.royal32">Facebook</a></p>
- - <p align="right"><a href="https://github.com/pradeepsinghnitk">Github</a></p>
+ <p align="right"><a href="https://www.linkedin.com/in/pradeep-singh-1a0335119/">Linkedin</a></p> 
+  <p align="right"><a href="https://www.facebook.com/pradeep.royal32">Facebook</a></p>
+  <p align="right"><a href="https://github.com/pradeepsinghnitk">Github</a></p>
