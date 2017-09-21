@@ -14,14 +14,8 @@ Ongoing Project
 This Project aims to Protection of user privacy by preventing google from hijacking User search result.An extension for Chromium that prevents Google from hijacking your search results. read more
 
 
-Enhanced Sentiment Learning Using Twitter Hashtags and Smileys
+### Enhanced Sentiment Learning Using Twitter Hashtags and Smileys
 
-A Data Analytical Project which aims to comparison between mobile carriers company and cyber vulnerability analysis. read more
-
-
-
-
- 
  <header><h4><p align="right">Contact</p> </h4></header> 
  
  <p align="right"><a href="https://www.linkedin.com/in/pradeep-singh-1a0335119/">Linkedin</a></p> 
