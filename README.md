@@ -1,6 +1,6 @@
 About Me
 
-Currently pursuing my Master's degree in Information Security from National Institute of Technology, Karnataka. Let me help you to Show some of my Work till date.Check Out My  <p ><a href="https://github.com/pradeepsinghnitk/pradeepsinghnitk.github.io/blob/master/curriculum-vitae%20(2).pdf">C.V. </a></p> 
+Currently pursuing my Master's degree in Information Security from National Institute of Technology, Karnataka. Let me help you to Show some of my Work till date.Check Out My  <a href="https://github.com/pradeepsinghnitk/pradeepsinghnitk.github.io/blob/master/curriculum-vitae%20(2).pdf">C.V. </a>
 
 
 
