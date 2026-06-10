@@ -14,8 +14,7 @@ PostDoc / Engineer at INRIA Center, Université Côte d’Azur, working on machi
 
 My research sits at the intersection of biomedical AI, structured and multimodal data modeling, and deployable research software. I am currently focused on building practical machine learning methods for biology-related data and scientific use cases.
 
-During my PhD in AI for Healthcare at IIIT Delhi, I contributed to the **SAFE-ICU** data resource and a broader ecosystem of predictive models, multimodal monitoring pipelines, and deployable ICU AI tools. My work spans pediatric critical care, early warning systems, thermal imaging, drug-drug interaction detection, and healthcare data harmonization. [web:80][web:142][web:129][web:164]
-
+During my PhD in AI for Healthcare at IIIT Delhi, I contributed to the **SAFE-ICU** data resource and a broader ecosystem of predictive models, multimodal monitoring pipelines, and deployable ICU AI tools. My work spans pediatric critical care, early warning systems, thermal imaging, drug-drug interaction detection, and healthcare data harmonization.
 ## Current Focus
 
 - Small foundation models for biology data.
