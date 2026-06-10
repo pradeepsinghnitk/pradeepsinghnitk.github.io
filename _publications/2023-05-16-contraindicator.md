@@ -1,13 +1,15 @@
 ---
-title: "ContraIndicator: Drug-drug interaction detection tool for pediatric critical care"
+title: "ContraIndicator: A Natural Language Processing-Based Approach to Potential Drug-Drug Interaction Detection in Pediatric Intensive Care"
 collection: publications
-permalink: /publication/2023-05-16-contraindicator
-date: 2023-05-16
-venue: "Software / GitHub"
-paperurl: "https://github.com/tavlab-iiitd/ContraIndicator"
-citation: "tavlab-iiitd/ContraIndicator. Integrated tool to detect, visualize, and prevent potential drug-drug interactions in clinical practice."
-excerpt: "A clinically oriented DDI tool developed for pediatric ICU and critical care settings."
+permalink: /publication/contraindicator
+date: 2026-01-01
+venue: "Springer"
+paperurl: "https://link.springer.com/article/10.1007/s40261-026-01529-z"
+citation: "ContraIndicator: A Natural Language Processing-Based Approach to Potential Drug-Drug Interaction Detection in Pediatric Intensive Care."
+excerpt: "A clinically oriented DDI detection tool for pediatric ICU workflows."
 ---
-ContraIndicator is an integrated tool for detecting, visualizing, and preventing potential drug-drug interactions in clinical settings, especially pediatric ICU workflows.
+ContraIndicator is an integrated tool for detecting, visualizing, and preventing potential drug–drug interactions in clinical settings, especially pediatric ICU workflows.
 
-[Project repository](https://github.com/tavlab-iiitd/ContraIndicator){:target="_blank"}
+[Read the paper](https://link.springer.com/article/10.1007/s40261-026-01529-z){:target="_blank"}
+
+[GitHub](https://github.com/tavlab-iiitd/ContraIndicator){:target="_blank"}
