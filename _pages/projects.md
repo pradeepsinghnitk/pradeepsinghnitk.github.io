@@ -18,6 +18,7 @@ Beyond being a dataset, SAFE-ICU grew into a larger research ecosystem that incl
 ## SIgnose
 SIgnose is a relevant ICU-focused machine learning project in the TavLab ecosystem and a better representative software artifact for my website than older repositories I no longer want to feature.
 
+- Paper: [SSRN abstract 4248013](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4248013)
 - GitHub: [tavlab-iiitd/SIgnose](https://github.com/tavlab-iiitd/SIgnose)
 
 ## ThermalShockNet
@@ -29,6 +30,7 @@ ThermalShockNet is my work on thermal imaging-based shock prediction using deep 
 ## ContraIndicator
 ContraIndicator is an integrated tool designed to detect, visualize, and help prevent potential drug–drug interactions in clinical practice, especially pediatric ICU workflows. It is directly tied to the pediatric ICU DDI research line and is a strong example of turning research into a usable software tool.
 
+- Paper: [Springer article](https://link.springer.com/article/10.1007/s40261-026-01529-z)
 - GitHub: [tavlab-iiitd/ContraIndicator](https://github.com/tavlab-iiitd/ContraIndicator)
 
 ## ThermoGnose
