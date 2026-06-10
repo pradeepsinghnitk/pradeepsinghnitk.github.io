@@ -24,15 +24,17 @@ During my PhD in AI for Healthcare at IIIT Delhi, I contributed to the **SAFE-IC
 - Clinical AI systems and deployable research software.
 - Public datasets, pipelines, and reproducible research tools.
 
-## Selected Links
 
-### Profiles
-- [LinkedIn](https://www.linkedin.com/in/pradeep-singh-1a0335119/)
+## Links
+
+- [CV](/cv/)
+- [Publications](/publications/)
+- [Projects](/projects/)
 - [GitHub](https://github.com/pradeepsinghnitk)
 - [Google Scholar](https://scholar.google.com/citations?user=VmelJF8AAAAJ)
+- [LinkedIn](https://www.linkedin.com/in/pradeep-singh-1a0335119/)
 - [ORCID](https://orcid.org/0000-0002-1215-7553)
-- [Previous lab page](https://tavlab.iiitd.edu.in/team/pradeep-singh)
-
+  
 ### Projects and resources
 - [SAFE-ICU project](https://safeicu.aiims.edu.in/project/safeicu/)
 - [SIgnose](https://github.com/tavlab-iiitd/SIgnose)
