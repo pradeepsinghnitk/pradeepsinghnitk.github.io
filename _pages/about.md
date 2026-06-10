@@ -7,19 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-# Hi, I'm Pradeep Singh 👋
 
-I am a PostDoc/Engineer at the INRIA Center, Université Côte d’Azur, in Nice, France. My current work focuses on computer science methods for biology, especially small foundation models, representation learning, and machine learning systems for biological data.
+# Pradeep Singh
 
-During my PhD, one of my major achievements was contributing to the SAFE-ICU data resource and its associated ecosystem of predictive models, clinical pipelines, and deployable ICU AI tools. That work involved clinical data pipelines, predictive modeling, and real-world healthcare AI applications.
+PostDoc / Engineer at INRIA Center, Université Côte d’Azur, working on machine learning for biology data, small foundation models, representation learning, and translational AI systems.
 
-My research interests now are more centered on building foundation models for biology data rather than general computational biology analysis. I am especially interested in model design, data-centric learning, biological representation learning, and practical systems that can support downstream research and applications.
+My research sits at the intersection of biomedical AI, structured and multimodal data modeling, and deployable research software. I am currently focused on building practical machine learning methods for biology-related data and scientific use cases.
 
-Previously, I worked on AI for healthcare at IIIT Delhi and AIIMS Delhi, where I developed machine learning and deep learning systems for ICU prediction, health data analytics, multimodal learning, model interpretability, thermal imaging-based analysis, FAIR data harmonization, and applied generative AI for healthcare workflows.
+During my PhD in AI for Healthcare at IIIT Delhi, I contributed to the **SAFE-ICU** data resource and a broader ecosystem of predictive models, multimodal monitoring pipelines, and deployable ICU AI tools. My work spans pediatric critical care, early warning systems, thermal imaging, drug-drug interaction detection, and healthcare data harmonization. [web:80][web:142][web:129][web:164]
 
-I also enjoy turning research into public resources and usable software. Examples include project pages, GitHub repositories, and deployable tools that make research easier to access and reproduce.
-
-## Research Themes
+## Current Focus
 
 - Small foundation models for biology data.
 - Representation learning for structured biomedical data.
