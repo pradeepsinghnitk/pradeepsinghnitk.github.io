@@ -12,6 +12,7 @@ redirect_from:
 INRIA Center, Université Côte d’Azur, Nice, France
 
 - [Email](mailto:pradeep.singh@inria.fr)
+- [Secondary email](mailto:pradeeps@iiitd.ac.in)
 - [LinkedIn](https://www.linkedin.com/in/pradeep-singh-1a0335119/)
 - [GitHub](https://github.com/pradeepsinghnitk)
 - [Google Scholar](https://scholar.google.com/citations?user=VmelJF8AAAAJ)
@@ -20,7 +21,7 @@ INRIA Center, Université Côte d’Azur, Nice, France
 
 ## Summary
 
-AI researcher and engineer working at the intersection of machine learning, biomedical AI, and computational methods for biology data. Current work at INRIA focuses on small foundation models, representation learning, and practical model development for biology-related data. During my PhD, one of my major achievements was contributing to the SAFE-ICU data resource and its associated ecosystem of predictive models, clinical pipelines, and deployable ICU AI tools.
+AI researcher and engineer working at the intersection of machine learning, biomedical AI, and computational methods for biology data. Current work at INRIA focuses on small foundation models, representation learning, and practical model development for biology-related data. During the PhD, one of the major achievements was contributing to the SAFE-ICU data resource and its associated ecosystem of predictive models, clinical pipelines, and deployable ICU AI tools.
 
 ## Education
 
@@ -51,19 +52,20 @@ AIIMS Delhi, India | Jan 2019 -- Aug 2020
 
 ## Selected Research Contributions
 
-- **SAFE-ICU Data Resource** — Contributed to a freely available pediatric ICU data resource at AIIMS New Delhi, which supported a wide range of ML and translational critical care studies.
-- **Drug-Drug Interaction Detection** — Developed "Contraindicator," a GUI-based DDI detection tool tailored for pediatric ICU use.
-- **Hemodynamic Shock Prediction** — Built models predicting shock several hours in advance, with deployment-oriented clinical focus.
-- **Hypothermia Forecasting in Pediatric ICUs** — Designed predictive models using XGBoost and Boruta for early warning from physiological vitals.
-- **Thermal Imaging-Based Shock Prediction** — Developed ResNet-152 + LSTM models leveraging thermal videos for ICU triaging.
+- **SAFE-ICU Data Resource** — Contributed to a freely available pediatric ICU data resource at AIIMS New Delhi, which supported a wide range of machine learning and translational critical care studies.
+- **SIgnose** — ICU-focused machine learning work in the TavLab ecosystem, represented through both paper and code.
+- **ContraIndicator** — Developed a drug-drug interaction detection approach and tool for pediatric critical care, combining clinically useful software with research output.
+- **ThermoGnose** — Developed a machine learning pipeline for early prediction of hypothermia in pediatric ICU settings using SAFE-ICU data.
+- **ThermalShockNet** — Developed thermal imaging-based deep learning approaches for non-contact hemodynamic shock prediction from thermal videos.
+- **Generalizing ICU AI Across Time Scales** — Worked on generalization of ICU AI systems across time scales in resource-limited settings.
 - **FAIR Healthcare Data Harmonization** — Harmonized non-curated public healthcare datasets using SNOMED CT concepts through NLP and LLM-based pipelines.
 
 ## Technical Projects & Applications
 
-- **ICU AI Application Suite** — DDI Checker, shock prediction app, and AMR dashboard.
+- **ICU AI Application Suite** — DDI checker, shock prediction applications, and AMR dashboard.
 - **Voice-Based Clinical Tools** — Developed voice-enabled medication systems using OpenAI Whisper.
 - **LLM-Powered Product Recommendation System** — Built using GPT, Sentence Transformers, LangChain, FAISS, and Weaviate.
-- **Foundation Model Fine-Tuning** — Fine-tuned BERT, Mistral, and LLaMA on ICU data; integrated with vector DBs such as Weaviate and Pinecone.
+- **Foundation Model Fine-Tuning** — Fine-tuned BERT, Mistral, and LLaMA on ICU data; integrated with vector databases such as Weaviate and Pinecone.
 - **Unsupervised Pre-Trained Vitals Signal Embeddings** — Built BERT-based unsupervised embeddings for multimodal ICU prognostication.
 
 ## Technical Skills
@@ -75,15 +77,17 @@ AIIMS Delhi, India | Jan 2019 -- Aug 2020
 - **Visualization**: Matplotlib, Seaborn, GGplot
 - **Languages**: English, Hindi
 
-## Publications
+## Selected Publications and Software
 
+- [ThermoGnose / Early prediction of hypothermia in pediatric intensive care units using machine learning](https://pubmed.ncbi.nlm.nih.gov/36171970/)
+- [ThermalShockNet / Early Prediction of Hemodynamic Shock in Pediatric Intensive Care Units With Deep Learning on Thermal Videos](https://pubmed.ncbi.nlm.nih.gov/35923238/)
+- [ThermalShockNet GitHub](https://github.com/pradeepsinghnitk/Shock-Prediction-with-Thermal-videos)
+- [SIgnose paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4248013)
+- [SIgnose GitHub](https://github.com/tavlab-iiitd/SIgnose)
+- [ContraIndicator paper](https://link.springer.com/article/10.1007/s40261-026-01529-z)
+- [ContraIndicator GitHub](https://github.com/tavlab-iiitd/ContraIndicator)
+- [Generalizing intensive care AI across time scales in resource-limited settings](https://www.medrxiv.org/content/10.64898/2026.04.23.26351588v1)
 - Full list on [Google Scholar](https://scholar.google.com/citations?user=VmelJF8AAAAJ)
-
-## Selected Projects
-
-- [SAFE-ICU](https://safeicu.aiims.edu.in/project/safeicu/)
-- [ShoQPred](https://github.com/SAFE-ICU/ShoQPred)
-- [Automated Shock Detection](https://github.com/SAFE-ICU/Automated_Shock_Detection)
 
 ## References
 
